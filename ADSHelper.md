@@ -1,6 +1,8 @@
 
 #### 当前版本功能支持的功能
 >本地链接：https://github.com/alreadyIN/MyDocs/blob/main/ADSHelper.md
+>Admob广告官网：https://developers.google.cn/admob/ios/quick-start
+>优量汇(腾讯)广告官网：https://developers.adnet.qq.com/doc/ios/guide
 
 **优量汇(腾讯)广告**
 -  开屏广告 -    *当前仅支持iPhone竖屏，不支持iPad及iPhone横屏*
