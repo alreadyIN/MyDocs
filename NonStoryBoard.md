@@ -1,3 +1,5 @@
+> 本文链接：https://github.com/alreadyIN/MyDocs/blob/main/NonStoryBoard.md
+
 ## 第一步 删除 Scenedelegate.h 和 Scenedelegate.m 文件 
 
 ![1284564-5c311138a8d8d757](https://user-images.githubusercontent.com/88173886/128486647-75e16bce-33a1-4d23-831e-4d597495c96d.png)
