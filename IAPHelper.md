@@ -1,6 +1,6 @@
 
 ## IAPHelper 集成文档 
->本地链接 https://github.com/alreadyIN/MyDocs/blob/main/IAPHelper.md
+>本文链接 https://github.com/alreadyIN/MyDocs/blob/main/IAPHelper.md
 
 #### 当前版本功能支持的功能
 - 内购商品列表请求-基于Block回调风格返回商品请求结果
