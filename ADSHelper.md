@@ -353,39 +353,59 @@ end
 
 7.0 优量汇(腾讯)原生广告样式
   *上图下文(图片尺寸1280x720)*
-![C87F4141-E321-47E9-86AE-EA6D219D4E53_1_105_c.jpeg](https://upload-images.jianshu.io/upload_images/1284564-b2d1527e9a0205e2.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![C87F4141-E321-47E9-86AE-EA6D219D4E53_1_105_c](https://user-images.githubusercontent.com/88173886/128484139-43bcaf09-d4b9-4476-bc1a-7639e7d5f217.jpeg)
+
 
   *上文下图(图片尺寸1280x720)*
-![
-](https://upload-images.jianshu.io/upload_images/1284564-a20b4a6a6ab81bee.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![A6CB28A9-1E23-4E43-86D7-E0BDA1F8F747_1_105_c](https://user-images.githubusercontent.com/88173886/128484191-83cca2b6-22fb-4798-9fff-79188f4f7150.jpeg)
+
 
   *左图右文(图片尺寸1200x800)*
-![63A4C15A-3C10-4B0D-9726-C2DCDCA43E36_1_105_c.jpeg](https://upload-images.jianshu.io/upload_images/1284564-a7cdf303c2671650.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![63A4C15A-3C10-4B0D-9726-C2DCDCA43E36_1_105_c](https://user-images.githubusercontent.com/88173886/128484203-b4e7bf71-9242-45be-bda5-9a34ef094152.jpeg)
+
 
   *左文右图(图片尺寸1200x800)*
-![55BB923E-A6F0-4DC0-8E45-8FB101328EBC_1_105_c.jpeg](https://upload-images.jianshu.io/upload_images/1284564-e46d7be0f670605a.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![55BB923E-A6F0-4DC0-8E45-8FB101328EBC_1_105_c](https://user-images.githubusercontent.com/88173886/128484222-25c92c90-23ba-48f7-a022-740a6b0d6df7.jpeg)
+
 
   *双图双文(图片尺寸1280x720)*
-![
-](https://upload-images.jianshu.io/upload_images/1284564-f29007baa73aa001.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![3B40A314-5D47-4D2E-BA3F-5AFB1CCA212A_1_105_c](https://user-images.githubusercontent.com/88173886/128484241-81a40f8b-6bd9-400c-b6de-69be86d3ab23.jpeg)
+
  
   *纯图片(图片尺寸1280x720)*
-![0AED3458-9B0A-42BE-86DB-8ED33DCC53FE_1_105_c.jpeg](https://upload-images.jianshu.io/upload_images/1284564-1853343c4868e010.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![0AED3458-9B0A-42BE-86DB-8ED33DCC53FE_1_105_c](https://user-images.githubusercontent.com/88173886/128484299-b63d7322-7740-4ce1-bc06-581f52e30d5b.jpeg)
+
 
   *三小图(图片尺寸228x150)*
-![7C883DA3-3D4F-400A-9031-D4982F8BB7B1_1_105_c.jpeg](https://upload-images.jianshu.io/upload_images/1284564-d08c6f047e738be6.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![7C883DA3-3D4F-400A-9031-D4982F8BB7B1_1_105_c](https://user-images.githubusercontent.com/88173886/128484314-01557b94-3d84-49e6-9a45-9bb97674f333.jpeg)
+
 
   *文字符层(上文下图1280x720)*
-![86BD0A8F-91F7-45E3-9555-63FC765B6306_1_105_c.jpeg](https://upload-images.jianshu.io/upload_images/1284564-c544e989913a9df7.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![86BD0A8F-91F7-45E3-9555-63FC765B6306_1_105_c](https://user-images.githubusercontent.com/88173886/128484329-dffdc1bc-c42a-476f-97e4-db60e981ad84.jpeg)
+
 
   *文字符层(上图下文1280x720)*
-![BF98CB7F-D766-4CF0-8B4C-ABAC28EDE5EE_1_105_c.jpeg](https://upload-images.jianshu.io/upload_images/1284564-11eeaa66aab6d9e8.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![BF98CB7F-D766-4CF0-8B4C-ABAC28EDE5EE_1_105_c](https://user-images.githubusercontent.com/88173886/128484351-06ae06e3-f460-4e98-82e8-777218d80c4c.jpeg)
+
 
   *文字符层(单图1280x720)*
-![E8E13F5B-D568-4D6E-B908-5F8B34349B6E_1_105_c.jpeg](https://upload-images.jianshu.io/upload_images/1284564-434a5a9a1cf88441.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![E8E13F5B-D568-4D6E-B908-5F8B34349B6E_1_105_c](https://user-images.githubusercontent.com/88173886/128484376-98c159e1-33ec-4bd9-951f-b2e86ec1902f.jpeg)
+
 
   *纯图片(图片尺寸1080x1920或800x1200)*
-![13C77FC1-4F3D-401E-9325-B24BDDA752AB_1_105_c.jpeg](https://upload-images.jianshu.io/upload_images/1284564-9a3887336db0dd15.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![13C77FC1-4F3D-401E-9325-B24BDDA752AB_1_105_c](https://user-images.githubusercontent.com/88173886/128484387-c58ab01f-d55a-4608-b84d-e1a3eefe1e92.jpeg)
+
 
 >优量汇(腾讯)原生视频广告样式与上述某些是一致的，只不过展示的视频，暂不予展示
 
