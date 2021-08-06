@@ -20,14 +20,17 @@
 
 #### 集成步骤及模块初始化
 1.将IAHelper工程拖入到想要集成内购模块的 Workspace 中
-![image.png](https://upload-images.jianshu.io/upload_images/1284564-5b7444dced020f4e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![1284564-5b7444dced020f4e](https://user-images.githubusercontent.com/88173886/128484783-f9f03df2-9a75-4336-9866-1d8a207d2846.png)
+
 
 2.将 IAPHelper.framework 添加到项目工程中
 
-![image.png](https://upload-images.jianshu.io/upload_images/1284564-457b308a18c8f104.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![1284564-457b308a18c8f104](https://user-images.githubusercontent.com/88173886/128484814-e142e4b4-ded5-4571-a302-77f127d7d407.png)
 
 
-![image.png](https://upload-images.jianshu.io/upload_images/1284564-78a20b65e9770e3e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![1284564-78a20b65e9770e3e](https://user-images.githubusercontent.com/88173886/128484835-851ca89c-6b99-44b6-9366-a0fdbe7a9c51.png)
+
 
 3. 在需要用到 IAPHeper 模块的地方，导入 IAPHelper 模块
 ```
