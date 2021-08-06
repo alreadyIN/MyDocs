@@ -1,6 +1,6 @@
 
 #### 当前版本功能支持的功能
->如无法查看，可浏览网页版 https://www.jianshu.com/p/18fe323bde29
+>本地链接：https://github.com/alreadyIN/MyDocs/blob/main/ADSHelper.md
 
 **优量汇(腾讯)广告**
 -  开屏广告 -    *当前仅支持iPhone竖屏，不支持iPad及iPhone横屏*
