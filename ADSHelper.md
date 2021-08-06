@@ -1,6 +1,6 @@
 
 #### 当前版本功能支持的功能
->本地链接：https://github.com/alreadyIN/MyDocs/blob/main/ADSHelper.md
+>本文链接：https://github.com/alreadyIN/MyDocs/blob/main/ADSHelper.md
 
 >Admob广告官网：https://developers.google.cn/admob/ios/quick-start
 
