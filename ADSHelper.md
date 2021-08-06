@@ -1,7 +1,9 @@
 
 #### 当前版本功能支持的功能
 >本地链接：https://github.com/alreadyIN/MyDocs/blob/main/ADSHelper.md
+
 >Admob广告官网：https://developers.google.cn/admob/ios/quick-start
+
 >优量汇(腾讯)广告官网：https://developers.adnet.qq.com/doc/ios/guide
 
 **优量汇(腾讯)广告**
@@ -21,7 +23,7 @@
 
 #### 集成步骤
 1. 工程要求及准备
->工程不要是StoryBoard创建的工程，需要手动设置 RootViewController ，如何实现非StoryBoard布局可参考：https://www.jianshu.com/p/ebbc4b5b6e83   
+>工程不要是StoryBoard创建的工程，需要手动设置 RootViewController ，如何实现非StoryBoard布局可参考：https://github.com/alreadyIN/MyDocs/blob/main/NonStoryBoard.md
 
 2. 将IAHelper文件夹拖入到主工程中
 >注意勾选中 Copy Items if needed / Create Groups/ 链接到主工程Target
