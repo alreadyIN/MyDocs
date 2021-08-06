@@ -23,8 +23,10 @@
 
 2. 将IAHelper文件夹拖入到主工程中
 >注意勾选中 Copy Items if needed / Create Groups/ 链接到主工程Target
+>
+![68747470733a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f313238343536342d383961313733333333653063366638302e706e673f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970253743696d61676556696577322f322f](https://user-images.githubusercontent.com/88173886/128481961-b5735a2a-8958-442a-9a72-124bc9a151ee.png)
 
-![image.png](https://upload-images.jianshu.io/upload_images/1284564-89a173333e0c6f80.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 
 3. 利用Pod集成广告sdk
 >广告模块并未集成广告SDK，为了方便集成，在此选择的是Pod集成方式，故需要在加入了广告模块的工程中使用Pod集成Admob广告及优量汇(腾讯)广告SDK.
@@ -43,13 +45,19 @@ end
 >以往版本的Admob广告是用 GoogleService.plist文件来配置的广告信息，最新的Admob广告采用的是在info.plist里配置。
 
  4.1 配置Admob App ID      *(图中只是示例，请填写自己申请的App Id)*
-![image.png](https://upload-images.jianshu.io/upload_images/1284564-d3cf057018dbaeaf.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+ 
+![68747470733a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f313238343536342d643363663035373031386462616561662e706e673f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970253743696d61676556696577322f322f](https://user-images.githubusercontent.com/88173886/128481868-353ac689-be28-425d-bbd0-2573276bd639.png)
+
 
 4.2  广告商信息  *（可从Demo工程中直接复制得到，也可在Admob官网获取:https://developers.google.cn/admob/ios/quick-start）*  
-![image.png](https://upload-images.jianshu.io/upload_images/1284564-19663587d5363de8.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![68747470733a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f313238343536342d313936363335383764353336336465382e706e673f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970253743696d61676556696577322f322f](https://user-images.githubusercontent.com/88173886/128481838-f98f5b30-af26-48bf-a8f3-6c2398462e4d.png)!
+
 
 4.3  允许Http请求访问  *(为了更好的方便广告加载，最好是加上下图配置)*
-![image.png](https://upload-images.jianshu.io/upload_images/1284564-ab95c567e9d4cbed.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![68747470733a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f313238343536342d616239356335363765396434636265642e706e673f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970253743696d61676556696577322f322f](https://user-images.githubusercontent.com/88173886/128482002-d932aea0-8ba2-47ae-b93f-c69b601759a8.png)
+
 
 
 5.  代码部分
