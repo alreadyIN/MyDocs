@@ -29,8 +29,6 @@
 ![1284564-457b308a18c8f104](https://user-images.githubusercontent.com/88173886/128484814-e142e4b4-ded5-4571-a302-77f127d7d407.png)
 
 
-![1284564-78a20b65e9770e3e](https://user-images.githubusercontent.com/88173886/128484835-851ca89c-6b99-44b6-9366-a0fdbe7a9c51.png)
-
 
 3. 在需要用到 IAPHeper 模块的地方，导入 IAPHelper 模块
 ```
